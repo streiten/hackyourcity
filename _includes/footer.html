@@ -11,7 +11,13 @@
             </div>
             <div class="col-md-4">
                 <ul class="nav nav-meta list-unstyled">
-                  <li><a href="/impressum">Kontakt & Impressum</a></li>
+                
+                {% if page.lang == 'en'  %}
+                    <li><a href="/en/legal">Contact &amp; Legal</a></li>
+                {% else %}
+                    <li><a href="/impressum">Kontakt &amp; Impressum</a></li>
+                {% endif %}
+
                 </ul>
             </div>
         </div>

@@ -56,11 +56,34 @@
 	margin-bottom: 15px;
 }
 
-.navbar-nav > li > a {
+.navbar-nav > li {
+	display: block;
+	float: left;  
+	
+	> a {
+		display: inline-block;  
+		padding: 0;
+		padding-right: 1em;
+		margin: 0;
+	}
+}
 
-	padding: 0;
-	margin: 0;
+.navbar-nav > li.lang-switch {
+	display: inline-block;
+	font-size: 0.75em;
+	a {
+		padding-right: 0.25em;
+		padding-left: 0.25em;
+	}
+}
 
+
+.navbar-nav > .lang-switch:before {
+	content:"";
+}
+
+.navbar-nav > .lang-switch ~ .lang-switch:before {
+	content: "|";
 }
 
 .navbar-brand {
@@ -220,21 +243,6 @@ html, body, .hero-video, .hero-video-container {
 
 }
 
-.hero-video-overlay-wj {
-	position: absolute;
-	margin: 0 auto; 
-	bottom: 15px; 
-	right: 0;
-	left: 0;
-	max-width: 50%;
-	height: auto;
-}
-
-
-.logo-wj {
-	margin-bottom: 10px;
-}
-
 .hero-video-overlay-h4c {
 	max-width: 80%;
 	max-height: 50%;
@@ -286,10 +294,6 @@ html, body, .hero-video, .hero-video-container {
 *
 **/
 
-.logo-wj {
-	margin-bottom: 30px;
-	display: block;
-}
 
 .hashtag {
 	

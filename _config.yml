@@ -21,6 +21,7 @@ sass:
 collections: 
 - termine
 - faqs
+- faqs_en
 
 exclude:
 - node_modules

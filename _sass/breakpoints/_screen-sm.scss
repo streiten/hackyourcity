@@ -3,6 +3,18 @@
 	padding-right: 60px;
 }
 
+.navbar-nav > li.lang-switch  > a {
+	
+	// padding-right: 0.5em;
+
+}
+
+.navbar-nav > li:last-child > a {
+	// padding-right: 1em;
+}
+
+
+
 .navbar-header  {
 	margin-top: 50px;
 	margin-bottom: 50px;
@@ -79,8 +91,11 @@
 		margin-top: 0;
 
 		
-		.nav > li > a {
-			color: white;
+		.nav > li  {
+
+			&, > a {
+				color: white;
+			}
 		}
 
 		.navbar-toggle .icon-bar {

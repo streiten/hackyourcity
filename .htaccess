@@ -1,0 +1,6 @@
+# .htaccess-Datei fuer das Verzeichnis /test 
+AuthType Basic 
+AuthName "Auth only" 
+AuthUserFile /kunden/426207_13347/.htusers 
+AuthPGAuthoritative Off
+require user hyc

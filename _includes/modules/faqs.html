@@ -1,5 +1,11 @@
+{% if page.lang == 'en' %}
+  {% assign faqs = site.faqs_en %}
+{% else %}
+  {% assign faqs = site.faqs %}
+{% endif %}
+
 <div class="panel-group" id="accordion">
-{% for faq in site.faqs %}
+{% for faq in faqs %}
 	<div class="panel panel-faq">
 		<h2 class="panel-heading-faq" id="heading-{{ forloop.index }}">
 			<a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ forloop.index }}" aria-expanded="false" aria-controls="collapse-{{ forloop.index }}">{{ faq.question }}</a>
