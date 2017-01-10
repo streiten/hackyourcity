@@ -2,9 +2,10 @@ $(document).ready(function(){
 
     //add random logo on home page
     if($('.page-home').length > 0){
-        var zuffi = Math.floor((Math.random() * 4) + 1);
+        var zuffi = Math.floor((Math.random() * 2));
         var $logo = $('.logo-h4c');
-        $logo.attr('src','/img/svg/h4c_logo_big_lab'+zuffi+'.svg');
+        svgPaths = ['/img/svg/h4c_logo_big_lab1.svg','/img/svg/h4c_logo_big_lab5.svg'];
+        $logo.attr('src',svgPaths[zuffi]);
     }
 
     /* getting viewport width */

@@ -156,6 +156,7 @@
 @include page-lab-logo ('dor');
 @include page-lab-logo ('dre');
 @include page-lab-logo ('kar');
+@include page-lab-logo ('cln');
 
 h2 {
 
@@ -411,6 +412,13 @@ html, body, .hero-video, .hero-video-container {
 .panel-lab4 {
 	@include panel-lab-teaser($lab4_primary);
 }
+
+// Dresden
+
+.panel-lab5 {
+	@include panel-lab-teaser($lab5_primary);
+}
+
 
 /**
 *
@@ -688,6 +696,16 @@ label[for=mce-EMAIL] {
 		background-image: url(../img/svg/map_lab4.svg);
 	}
 }
+
+// Köln
+.page-lab-cln {
+	
+	@include page-lab-colorscheme($lab5_primary);
+		.section-lab-slider:after {
+		background-image: url(../img/svg/map_lab5.svg);
+	}
+}
+
 
 
 
