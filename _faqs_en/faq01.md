@@ -1,10 +1,9 @@
 ---
-question: EN Was ist Hack Your City?
+question: What is Hack your City?
 ---
 
-Hack your City ist ein Projekt im Zuge des Wissenschaftsjahr Zukunftsstadt.
-Das Wissenschaftsjahr 2015 widmet sich Fragen rund um die Stadt der Zukunft: Wie möchten wir in der Stadt leben? Wie wollen wir unsere Städte verändern? Was fehlt uns? Wie können wir Offene Daten nutzen um Stadtabläufe zu erleichtern?<br>
-Hack Your City möchte Akteuren, denen die Zukunft der Stadt am Herzen liegt, ermöglichen in Kleingruppen Stadtprobleme zu lösen und Stadtvisionen zu realisieren. Dabei liegt ein spezieller Fokus auf dem Thema Citizen Science - bei dem BürgerInnen mit lokalen Wissenschaftseinrichtungen kollaborieren, gemeinsam an Forschungsprojekten arbeiten, Daten crowdsourcen, nützliche Werkzeuge und digitale Anwendungen entwickeln.
+Hack your City is a project that was developed and conducted in 2015 in the course of the science year “city of the future” in four German cities (Berlin, Dortmund, Karlsruhe, Dresden). This year the project will start again.<br>
 
-In jeweils vier deutschen Städten finden als Projektauftakt Citizen Science Hackdays statt. Auf den Hackdays können sich Akteure und Ideen finden und erste Prototypen entwickelt werden. Im Anschluss an die Hackdays werden sogenannte Citizen Science Labs gestartet, das sind Arbeitsgruppen, die sich regelmäßig Treffen und aus Prototypen funktionierende Anwendungen entwickeln. Die Labs sind eine Kollaboration zwischen Hack your City und Code for Germany. Im November werden dann Projekte nach Berlin zu einer öffentlichen Abschlussveranstaltung eingeladen.
-Hack your City ist eine Projekt von <a href="http://www.wissenschaft-im-dialog.de/">Wissenschaft im Dialog</a> und der <a href="http://okfn.de/">Open Knowledge Foundation Deutschland</a>.
+Hack your City wants to enable people to solve problems in their city. One of the main focuses of the project is citizen science – where citizens and local research institutions collaborate on scientific questions. The project will kick off with a two-day hackathon where the participants can create prototypes. Afterwards we will form working groups that will further develop the prototypes. Hack your City is a project by Science in Dialogue in cooperation with Siemens, the city of Cologne and the TH Cologne.<br>
+
+<a href="https://www.youtube.com/watch?v=56RcQ6IvMwk">Our Video</a> from last year will give you a good impression of how our hackathons work.

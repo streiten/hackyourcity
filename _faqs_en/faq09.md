@@ -1,6 +1,5 @@
 ---
-question: Wer sind die Organisatoren? 
+question: Who are the organizers?
 ---
 
-Organisatoren von Wissenschaft im Dialog sind Yannick Haan und Thorsten Witt.  
-Organisatorinnen bei der Open Knowledge Foundation ist Julia Kloiber, Maria Reimer und Paula Glaser.
+The organizers are Yannick Haan and Thorsten Witt from Science in Dialogue.

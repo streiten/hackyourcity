@@ -1,5 +1,5 @@
 ---
-question: Was ist Citizen Science?
+question: What is Citizen Science?
 ---
 
-Wissenschaft ist das zuverlässigste System um neues Wissen zu kreieren. In Citizen Science Projekten beteiligen sich Nicht-WissenschaftlerInnen an der Datenerhebung, Analyse oder Präsentation von Forschungsprojekten. Im Citizen Science kommen HobbyforscherInnen und ForscherInnen zusammen und schaffen neues Wissen aus der gemeinsamen Faszination des Forschens. HobbyforscherInnen sind teilweise oder komplett in den Forschungsprozess mit eingebunden und können so vor allem viel Spaß beim gemeinsamen Forschen haben! 
+Science is a reliable system for gathering new knowledge. In citizen science projects scientists and non-scientists collaborate on data collection, data analysis or the presentation of research projects. Non researchers and researchers come together driven by their fascination by science and create new knowledge. 

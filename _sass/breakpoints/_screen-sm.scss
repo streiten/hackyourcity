@@ -205,12 +205,12 @@
 .section-lab-partner {
 	
 	li {
-		margin-right: 30px;
-		display:inline-block;
+		//margin-right: 0 auto;
+		// display:inline-block;
 		max-width: 30%;
-		margin-right: 3%;
+		//margin-right: 3%;
 		&:nth-child(3n) {
-			margin-right: 0;
+			//margin-right: 0;
 		}
 	}
 }

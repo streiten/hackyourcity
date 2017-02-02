@@ -1,5 +1,5 @@
 ---
-question: Ich bin kein "Hacker". Kann ich mitmachen?
+question: I’m not a coder. Can I still participate?
 ---
 
-Jeder kann bei Hack your City teilnehmen! Du brauchst keinen Hintergrund in Stadtplanung oder IT, aber wenn Du es hast, grandios! Das Wichtigste ist, dass Du interessiert bist, mit an der Stadt der Zukunft zu bauen und begierig bist im Team etwas zu entwickeln.
+Everyone can participate at Hack your City. You don’t need a background in city planning or IT. The most important thing is that you are interested in building the future of the city and that you like working in teams.

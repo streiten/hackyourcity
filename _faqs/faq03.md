@@ -14,10 +14,10 @@ GIBT ES THEMATISCHE BESCHRÄNKUNGEN FÜR DEN "PITCH"?<br>
 Deine Eigenwerbung/Pitch soll das Thema die Stadt der Zukunft reflektieren. Wir erwarten DesignerInnen, ProgrammiererInnen, WissenschaftlerInnen, StädteplanerInnen und weitere Akteure aus verschiedenen Gebieten zum Thema Stadt so wird es immer ein/e ExpertIn für jede Frage geben.<br>
 
 WAS SOLL ICH MITBRINGEN<br>
-Denk an all die Geräte und Materialien, die nützlich oder inspirierend sein können. Natürlich Deinen Computer und anderes, das Du nützlich für Dein Arbeiten findest. Falls Du besondere Materialien benötigst, schreib eine E-Mail an Yannick (yannick.haan[at]w-i-d.de), eventuell können wir diese für Dich besorgen.<br>
+Denk an all die Geräte und Materialien, die nützlich oder inspirierend sein können. Natürlich Deinen Computer und anderes, das Du nützlich für Dein Arbeiten findest. Falls Du besondere Materialien benötigst, schreib eine E-Mail an Yannick (<a href="mailto:Yannick.haan@w-i-d.de">Yannick.haan@w-i-d.de</a>), eventuell können wir diese für Dich besorgen.<br>
 
-MUSS ICH MICH ANMELDEN?
+MUSS ICH MICH ANMELDEN?<br>
 Da wir leider nur begrenzt Platz haben, ist eine kostenfreie Anmeldung notwendig.<br>
 
-WAS, WENN ICH NOCH KEINE KONKRETE PROJEKTIDEE HABE?
+WAS, WENN ICH NOCH KEINE KONKRETE PROJEKTIDEE HABE?<br>
 Kein Problem. Viele Leute nutzen die ersten Stunden eines Hackdays damit mit verschiedenen Leuten zu reden, zu brainstormen und Ideen zu sammeln. Außerdem gibt es viele Leute die MitstreiterInnen für die Umsetzung ihrer Projektidee suchen.

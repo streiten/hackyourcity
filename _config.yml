@@ -20,6 +20,7 @@ sass:
 
 collections: 
 - termine
+- termine_en
 - faqs
 - faqs_en
 

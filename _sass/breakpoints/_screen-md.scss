@@ -22,13 +22,10 @@
 
 
 .section-initiators {
-	.row {
-		@include initiator-gradient($initiator_color1, $initiator_color2)
-	}
 
-	.col-initiator-1, .col-initiator-2 {
-		background: transparent;
-	}
+	// .col-initiator-1, .col-initiator-2 {
+	// 	background: transparent;
+	// }
 }
 
 .thumbnail-project {
@@ -67,9 +64,9 @@
 		width: 678px;
 		height: 1218px;
 		background: url(../img/svg/map_lab1.svg) no-repeat;
-  		background-position-x: 200px;
+  	background-position-x: 200px;
 
-  		mix-blend-mode: multiply;
+  	mix-blend-mode: multiply;
 		top: -200px;
 		right: 0;
 	}
@@ -83,16 +80,17 @@
 
 footer {
 	
-	padding: 150px 45px 50px 45px;
+	padding: 45px 45px 20px 45px;
 	background-color: white; 
 
 	.footer-initiator-logos li {
 		text-align: left;
 		margin-right: 40px;
 		display: inline-block;
-		
+
 		img {
-			width: inherit;
+			width: 100%;
+			max-width: 200px;
 		}
 
 		&:last-child {
@@ -105,7 +103,7 @@ footer {
 
 	.nav {
 		float: right;
-		margin-top: 30px;
+		margin-top: 65px;
 		li {
 			display: inline-block;
 		}

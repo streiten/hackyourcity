@@ -209,6 +209,7 @@ footer {
 		img {
 			width: 50%;
 			margin-bottom: 30px;
+			margin: 0 auto;
 		}
 
 	}
@@ -434,10 +435,11 @@ html, body, .hero-video, .hero-video-container {
 
 }
 
-#mc_embed_signup {
+#mc_embed_signup, .n2gsignup {
 
-	input {
+	input, button {
 		height: 110px;
+		border:0;
 	}
 	margin: 0 auto;
 
@@ -447,7 +449,7 @@ label[for=mce-EMAIL] {
 	display:none;
 }
 
-#mce-EMAIL {
+#mce-EMAIL, .mce-EMAIL{
 
 	font-size: $fs-large; 
 	display: block;
@@ -535,6 +537,7 @@ label[for=mce-EMAIL] {
 
 .section-initiators {
 
+	background: $initiator_color1;
 	color: white;
 
 	a {
@@ -546,18 +549,18 @@ label[for=mce-EMAIL] {
 		padding-bottom: 100px;
 	}
 
-	.col-initiator-1 {
-		background: $initiator_color1;
-	}
+	// .col-initiator-1 {
+	// 	background: $initiator_color1;
+	// }
 
-	.col-initiator-2 {
-		background: $initiator_color2;
-	}
+	// .col-initiator-2 {
+	// 	background: $initiator_color2;
+	// }
 
 }
 .col-initiator {
 	
-	padding: 60px;
+// 	padding: 60px;
 
 }
 
@@ -642,7 +645,7 @@ label[for=mce-EMAIL] {
 
 	ul {
 		margin-bottom: 0;
-		margin-top: 50px;
+		margin-bottom: 50px;
 	}
 
 	li {

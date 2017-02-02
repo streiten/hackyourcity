@@ -1,5 +1,5 @@
 ---
-question: Weitere Fragen? 
+question: More questions? 
 ---
-Wende dich jederzeit via email an:
-<a href="mailto:yannick.haan@w-i-d.de">yannick.haan@w-i-d.de</a>
+
+Then just send an e-mail to <a href="mailto:Yannick.haan@w-i-d.de">Yannick.haan@w-i-d.de</a>

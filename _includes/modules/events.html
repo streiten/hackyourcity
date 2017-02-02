@@ -1,4 +1,10 @@
-{% for event in site.termine %}
+{% if page.lang == 'en' %}
+  {% assign events = site.termine_en %}
+{% else %}
+  {% assign events = site.termine %}
+{% endif %}
+
+{% for event in events %}
 
   {% if event.lab == page.lab %}
       <div class="event">
@@ -6,7 +12,13 @@
         <div class="event-date">{{ event.edate }}</div>
         <div class="event-location">{{ event.location }}</div>
         {% if event.signup-url %}
-        <a class="event-signup btn btn-signup" href="{{ event.signup-url }}">Infos &amp; anmelden</a>
+        <a class="event-signup btn btn-signup" href="{{ event.signup-url }}">
+        {% if page.lang == 'en' %}
+           Information &amp; sign-up
+        {% else %}
+          Infos &amp; anmelden
+        {% endif %}
+        </a>
         {% endif %}
         <div class="event-content">
 		      {{ event.content }}

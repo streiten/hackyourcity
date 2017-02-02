@@ -1,25 +1,23 @@
 ---
-question: Was ist ein Hackday und wie läuft er ab?
+question: What is a hackathon and what is the schedule?
 ---
 
-Der Ursprung des Wortes "hacken" geht auf die Tätigkeit von Tüftlern zurück, die versuchen, die Grenzen des Machbaren auszuloten und neue kreative Lösungen zu entwickeln.
-'Hacken' ist eine Art einfallsreiche Experimentierfreudigkeit mit einem besonderen Sinn für Kreativität und Originalität. Das Ergebnis ist ein Hack.
+The origin of the word hacking lies in the work of hobby inventors who sound out the barriers of the possible and develop new creative solutions. Hacking is the joy of experimenting with a special twist for creativity and authenticity. The result is a hack.
 
-Auf einem Hackday kommen also verschiedene "Hacker" zusammen, ganz egal ob SoftwareentwicklerInnen, DesignerInnen, WissenschaftlerInnen und Alltags-Hacker. Jeder, der kreativ eine Lösung finden möchte, ist eingeladen, gemeinsam mit allen anderen Teilnehmenden eine Lösung für eine Problemstellung zu erarbeiten. Diese Problemstellung wird von den TeilnehmerInnen selbst mitgebracht und gemeinsam versucht zu lösen. Ziel ist es dabei, einen gesellschaftlichen Nutzen zu erbringen.
+At a hackathon different “hackers”, that is coders, designers, researchers and citizens come together. Everyone who is willing to find creative solutions to challenges is invited to join us. The challenges will be defined and solved by the participants. The aim of the projects is to create social benefits.
 
-ORGANISATORISCHES & ABLAUF<br>
-Die Hackdays starten am Samstag mit einer kurzen Begrüßung und Lightening Talks von HobbyforscherInnen und Wissenschaftseinrichtungen. Danach folgt eine sogenannte Pitching Session, in der alle TeilnehmerInnen Projektideen vorstellen können und sich die Teams zusammenfinden. Den Rest des Tages wird gebastelt und entwickelt. Am Sonntagnachmittag werden die Ergebnisse des Wochenendes präsentiert.
-Für Verpflegung (auch vegetarisch) und für WLan ist gesorgt. Details zum Ablauf in den einzelnen Städten finden sich unter den Anmelde-Links auf den Städteseiten.
+Organizational Matters and Schedule<br>
+The hackathon will start on Saturday with a short introduction and lightning talks. Afterwards there will be a pitching session where the participants can present their ideas and form teams. The rest of the day the participants will work on their projects. On Sunday afternoon the results of the weekend’s work will be presented. Food, drinks and WiFi will be provided. 
 <br>
 
-GIBT ES THEMATISCHE BESCHRÄNKUNGEN FÜR DEN "PITCH"?<br>
-Deine Eigenwerbung/Pitch soll das Thema des Wissenschaftsjahrs reflektieren: Die Stadt der Zukunft. Wir erwarten DesignerInnen, ProgrammiererInnen, WissenschaftlerInnen, StädteplanerInnen und weitere Akteure aus verschiedenen Gebieten zum Thema Stadt so wird es immer ein/e ExpertIn für jede Frage geben.<br>
+Is there any thematic focus for the pitch?<br>
+Your pitch should reflect the topic of the event. We expect designers, coders, scientists, city planners and other participants who are interested in the cities and their challenges. So there will be an expert for every question.<br>
 
-WAS SOLL ICH MITBRINGEN<br>
-Denk an all die Geräte und Materialien, die nützlich oder inspirierend sein können. Natürlich Deinen Computer und anderes, das Du nützlich für Dein Arbeiten findest. Falls Du besondere Materialien benötigst, schreib eine E-Mail an Yannick (yannick.haan[at]w-i-d.de), eventuell können wir diese für Dich besorgen.<br>
+What should I bring?<br>
+Think about all the materials and devices that could be useful or inspirational. Of course you should bring your laptop and any other stuff that is useful for your work. If you need special materials or equipment just send an e-mail to Yannick (<a href="mailto:Yannick.haan@w-i-d.de">Yannick.haan@w-i-d.de</a>), perhaps we can source it for you.<br>
 
-MUSS ICH MICH ANMELDEN?
-Da wir leider nur begrenzt Platz haben, ist eine kostenfreie Anmeldung notwendig.<br>
+Do I have to register?<br>
+As we only have limited space, a free registration is required.<br>
 
-WAS, WENN ICH NOCH KEINE KONKRETE PROJEKTIDEE HABE?
-Kein Problem. Viele Leute nutzen die ersten Stunden eines Hackdays damit mit verschiedenen Leuten zu reden, zu brainstormen und Ideen zu sammeln. Außerdem gibt es viele Leute die MitstreiterInnen für die Umsetzung ihrer Projektidee suchen.
+What if I don’t have a concrete project idea?<br>
+No problem at all. A lot of people use the first few hours of a hackathon to talk to different people, to brainstorm und get new ideas. Furthermore, there are always people who are looking for help with their projects.
