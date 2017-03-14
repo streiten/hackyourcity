@@ -10,4 +10,4 @@ Ergebnisse
  
 [Das war der Hack Your City Köln](https://storify.com/Konstanze/hack-your-city-koln)
 
-[Fotos](https://www.facebook.com/pg/wissenschaftimdialog/photos/?tab=album&album_id=1445671838798308)
+[Fotos auf Flickr](https://flic.kr/s/aHskQWpAyx)
