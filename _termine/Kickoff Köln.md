@@ -8,6 +8,6 @@ location: Headquarters Downtown, Neue Weyerstraße 2, 50676 Köln
 
 Ergebnisse
  
-[Das war der Hack Your City Köln](https://storify.com/Konstanze/hack-your-city-koln)
+[Das war Hack Your City Köln](https://storify.com/Konstanze/hack-your-city-koln)
 
 [Fotos auf Flickr](https://flic.kr/s/aHskQWpAyx)
