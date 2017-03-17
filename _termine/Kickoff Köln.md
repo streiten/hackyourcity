@@ -6,8 +6,4 @@ location: Headquarters Downtown, Neue Weyerstraße 2, 50676 Köln
 # signup-url: https://www.eventbrite.com/e/hack-your-city-koln-tickets-31149547134
 ---
 
-Ergebnisse
  
-[Das war Hack Your City Köln](https://storify.com/Konstanze/hack-your-city-koln)
-
-[Fotos auf Flickr](https://flic.kr/s/aHskQWpAyx)
